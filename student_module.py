@@ -1,0 +1,5 @@
+name=input("Enter name:")
+roll=int(input("Enter roll:"))
+print("Student Registered")
+print(f"roll no: {roll}")
+print(f"name: {name}")
